@@ -1,6 +1,11 @@
 #pragma warning(disable:4996)
 #pragma fenv_access(on)
 
+/*  Source by CPPReference
+    Modified For Learn by Rizky Khapidsyah
+    I.D.E : VS2019
+*/
+
 #include <iostream>
 #include <cmath>
 #include <cerrno>
